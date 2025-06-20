@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akanksha Job</h1>
-<h3 align="center">Frontend Developer from India | Work in Progress, Just Like My Repos :)</h3>
+<h3 align="center"> Work in Progress, Just Like My Repos!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshajob&label=Profile%20views&color=0e75b6&style=flat" alt="akankshajob" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshajob" alt="akankshajob" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=akankshajob&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="akankshajob" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
