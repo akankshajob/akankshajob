@@ -32,6 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akankshajob&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshajob&theme=dark" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshajob&" alt="akankshajob" /></p>
