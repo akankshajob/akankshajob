@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshajob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akankshajob&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
