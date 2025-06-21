@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akankshajob&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
-<p><img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=akankshajob&" alt="akankshajob" />
-</p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=akankshajob&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="akankshajob trophies"/>
