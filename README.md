@@ -30,6 +30,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akankshajob&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alfredd43&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alfredd43&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredd43&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=akankshajob&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="akankshajob trophies"/>
