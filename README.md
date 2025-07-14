@@ -33,11 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akankshajob&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=akankshajob&theme=dark&hide_border=false)<br/>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akankshajob&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="akankshajob trophies"/>
-  </a>
-</p>
+
