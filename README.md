@@ -7,7 +7,7 @@
 
 - 📫 How to reach me akankshajob117@gmail.com
 
-- ⚡ Fun fact I absolutely love video editing — it's my creative escape when I'm not coding!
+- ⚡ Fun fact I absolutely love video editing — it's my creative escape when I'm not coding
 
 <h3 align="left">Connect with me:</h3>
 <br>
