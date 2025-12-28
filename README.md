@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently learning Python
 
-- 📫 How to reach me akankshajob117@gmail.com
+- 📫 How to reach me akankshajob7@gmail.com
 
 - ⚡ Fun fact I absolutely love video editing — it's my creative escape when I'm not coding
 
