@@ -3,7 +3,7 @@
 
 </p>
 
-- 🌱  I’m currently learning Python
+- 🌱  I’m currently learning Cloud Computing
 
 - 📫 How to reach me akankshajob7@gmail.com
 
